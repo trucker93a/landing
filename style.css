@@ -1,0 +1,47 @@
+html {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  background-color: #76ABAE
+}
+
+.headsec{
+  background-color: #31363F;
+  color: #76ABAE;
+}
+
+.mesection{
+  background-color: #EEEEEE;
+  color: #222831;
+
+}
+
+.contact{
+  background-color: #EEEEEE;
+  color: #222831;
+}
+
+.astro{
+  max-width: 300px;
+  border-radius: 50%;
+}
+
+.profilepic {
+  border-radius: 50%;
+  min-width: 200px;
+  max-width: 200px;
+  height: auto;
+}
+
+.footersec{
+  background-color: #76ABAE;
+  color: #222831;
+}
+
+.name{
+  font-weight: bold;
+}
+
+.head2{
+  color: #030637;
+}
